@@ -1,0 +1,7 @@
+version: "3.7"
+
+services:
+  mysql:
+    image: fstab/mutt
+    volumes:
+       - ~/.mutt:/home/mutt
