@@ -1,19 +1,10 @@
 {
   "name": "stern-mutt",
   "version": "0.0.2",
-  "description": "> TODO: description",
   "author": "Craig Mulligan <hobochildster@gmail.com>",
   "homepage": "",
   "license": "ISC",
-  "main": "lib/stern-mutt.js",
-  "directories": {
-    "lib": "lib",
-    "test": "__tests__"
-  },
   "files": [
     "docker-compose.yaml"
-  ],
-  "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
-  }
+  ]
 }

@@ -30,7 +30,7 @@ const getComposeFile = async pkgName => {
       .x({
         file: `stern-${pkgName}.tgz`,
         filter: (path, entry) => {
-          console.log(path)
+          console.log('path:', path)
           if (path.includes('docker-compose.yaml')) {
             return true
           }
