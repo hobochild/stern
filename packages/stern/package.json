@@ -1,6 +1,6 @@
 {
   "name": "stern",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A safe-ish and easy way to run binaries.",
   "main": "src/index.js",
   "scripts": {
