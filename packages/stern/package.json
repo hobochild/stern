@@ -1,6 +1,6 @@
 {
   "name": "stern",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "A safe-ish and easy way to run binaries.",
   "main": "src/index.js",
   "scripts": {
@@ -10,7 +10,12 @@
     "type": "git",
     "url": "https://www.npmjs.com/package/stern"
   },
-  "keywords": ["stern", "docker", "docker-compose", "binaries"],
+  "keywords": [
+    "stern",
+    "docker",
+    "docker-compose",
+    "binaries"
+  ],
   "author": "hobochild",
   "license": "ISC",
   "dependencies": {
